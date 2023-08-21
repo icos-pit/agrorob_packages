@@ -1,0 +1,3 @@
+[submodule "agrorob_interfaces"]
+	path = agrorob_interfaces
+	url = https://github.com/icos-pit/agrorob_interfaces.git

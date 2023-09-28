@@ -1,3 +1,6 @@
 [submodule "agrorob_interfaces"]
 	path = agrorob_interfaces
 	url = https://github.com/icos-pit/agrorob_interfaces.git
+[submodule "agrorob_msgs"]
+	path = agrorob_msgs
+	url = https://github.com/icos-pit/agrorob_msgs.git

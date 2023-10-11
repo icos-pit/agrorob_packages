@@ -7,3 +7,6 @@
 [submodule "xsens_driver"]
 	path = xsens_driver
 	url = https://github.com/icos-pit/xsens_driver
+[submodule "agrorob_launch"]
+	path = agrorob_launch
+	url = https://github.com/icos-pit/agrorob_launch.git

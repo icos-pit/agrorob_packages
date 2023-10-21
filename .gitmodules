@@ -10,3 +10,6 @@
 [submodule "agrorob_launch"]
 	path = agrorob_launch
 	url = https://github.com/icos-pit/agrorob_launch.git
+[submodule "ros2_socketcan"]
+	path = ros2_socketcan
+	url = https://github.com/icos-pit/ros2_socketcan.git

@@ -13,3 +13,6 @@
 [submodule "ros2_socketcan"]
 	path = ros2_socketcan
 	url = https://github.com/icos-pit/ros2_socketcan.git
+[submodule "agrorob_gps"]
+	path = agrorob_gps
+	url = https://github.com/icos-pit/agrorob_gps

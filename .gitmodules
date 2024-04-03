@@ -16,3 +16,6 @@
 [submodule "odom_from_navrelposned"]
 	path = odom_from_navrelposned
 	url = https://github.com/icos-pit/odom_from_navrelposned.git
+[submodule "ublox_dgnss"]
+	path = ublox_dgnss
+	url = https://github.com/icos-pit/ublox_dgnss.git

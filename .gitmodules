@@ -13,9 +13,6 @@
 [submodule "ros2_socketcan"]
 	path = ros2_socketcan
 	url = https://github.com/icos-pit/ros2_socketcan.git
-[submodule "agrorob_gps"]
-	path = agrorob_gps
-	url = https://github.com/icos-pit/agrorob_gps
 [submodule "odom_from_navrelposned"]
 	path = odom_from_navrelposned
 	url = https://github.com/icos-pit/odom_from_navrelposned.git
